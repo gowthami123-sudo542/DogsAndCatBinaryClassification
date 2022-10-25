@@ -28,5 +28,8 @@
 ![image](https://user-images.githubusercontent.com/67852967/197771065-25a476ab-2bba-4008-9ebf-4189584b4102.png)
 ![image](https://user-images.githubusercontent.com/67852967/197771224-4bc06827-24d2-4cc8-8421-e966fd324dcc.png)
 
+## Try this in local machine
+
+* download the .ipynb file and run locally to view results.
  
      
