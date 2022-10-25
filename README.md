@@ -23,6 +23,25 @@
  8) Compile the model and train the model by using training dataset.
  9) By using ***Gradio*** library you can view the perofrmance of the model
 
+## Hyper Parameters of the model
+* Input Image Size=(256,256,3)
+* Batch Size=32
+* Kernel size=(3,3)
+* padding='valid'
+* Activation function='Relu' (for conv layers)
+* Activation function='Sigmoid' (for classification)
+* Max Pooling PoolSize=(2,2)
+* stride=2
+* optimizer='adam'
+* loss='binary_crossentropy'
+* metrics='accuracy'
+* epochs=25
+
+## Accuracy of the model
+ * Accuracy:0.9951
+ * val Accuracy:0.8256
+ 
+
 ## Results
 
 ![image](https://user-images.githubusercontent.com/67852967/197771065-25a476ab-2bba-4008-9ebf-4189584b4102.png)
